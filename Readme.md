@@ -27,7 +27,7 @@ To do this, follow the steps below:
 
 ## More Examples
 
-* [How to Create Map Items Based on Data From an XML Data](https://github.com/DevExpress-Examples/winforms-map-bind-to-xml-data)
+* [How to Create Map Items Based on Data From an XML File](https://github.com/DevExpress-Examples/winforms-map-bind-to-xml-data)
 * [How to load data from a KML file](https://github.com/DevExpress-Examples/how-to-load-data-from-a-kml-file-t140303)
 * [How to load data from a SQL geometry data-source](https://github.com/DevExpress-Examples/how-to-load-data-from-a-sql-geometry-data-source-t175898)
 * [How to customize mini map layers](https://github.com/DevExpress-Examples/how-to-customize-mini-map-layers-t201418)

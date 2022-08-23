@@ -12,9 +12,9 @@ This example demonstrates how to load SVG file content to the Map Control.
 
 To do this, follow the steps below:
 
-* Create a [VectorItemsLayer](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.VectorItemsLayer) and add it to the [MapControl.Layers](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.MapControl.Layers?p=netframework) collection.
-* Initialize the [VectorItemsLayer.Data](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.VectorItemsLayer.Data) property with an [SvgFileDataAdapter](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.SvgFileDataAdapter?p=netframework) object.
-* To specify the path to an SVG file, use the adapter's [SvgFileDataAdapter.FileUri](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.SvgFileDataAdapter.FileUri) property.
+* Create a [`VectorItemsLayer`](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.VectorItemsLayer) and add it to the [`MapControl.Layers`](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.MapControl.Layers?p=netframework) collection.
+* Initialize the [`VectorItemsLayer.Data`](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.VectorItemsLayer.Data) property with an [`SvgFileDataAdapter`](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.SvgFileDataAdapter?p=netframework) object.
+* To specify the path to an SVG file, use the adapter's [`SvgFileDataAdapter.FileUri`](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.SvgFileDataAdapter.FileUri) property.
 
 ## Files to Look At
 
